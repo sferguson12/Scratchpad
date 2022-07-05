@@ -26,6 +26,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Scratchpad.Library\Scratchpad.Library.csproj" />
+    <ProjectReference Include="..\Scratchpad.Command\Scratchpad.Command.csproj" />
   </ItemGroup>
 
 </Project>
